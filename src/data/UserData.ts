@@ -12,28 +12,28 @@ const Users: IuserInfo[] = [
     id: 2,
     name: 'Ana',
     lastName: 'Teresa',
-    email: 'banana-atrot@gmail.com',
+    email: 'Ana@gmail.com',
     age: 28
   },
   {
     id: 3,
-    name: 'María',
+    name: 'Noemi',
     lastName: 'De las nieves',
-    email: 'antonieta@gmail.com',
+    email: 'Noemi@gmail.com',
     age: 28
   },
   {
     id: 4,
     name: 'Peter',
     lastName: 'Parker',
-    email: 'spider-man@gmail.com',
+    email: 'hombrequearaña@gmail.com',
     age: 28
   },
   {
     id: 5,
     name: 'Luffy',
     lastName: 'D',
-    email: 'estatuadebronce@gmail.com',
+    email: 'elastiman@gmail.com',
     age: 28
   },
 ]
